@@ -1,0 +1,7 @@
+#
+# SIM plug detection
+#
+menuconfig SIMCDDRV
+	tristate "SIM plug detection"
+	help
+	 Say Y here
