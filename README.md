@@ -1,1 +1,1 @@
-# android_kernel_asus_p01m
+# ASUS ZenPad S 8.0 (Z580CA)
